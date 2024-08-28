@@ -7,4 +7,4 @@ This is just a simple tool that is used to filter URLs and only displays URLs wi
 
 example command:
 
-python3 filter_urls.py urls.txt -o filtered_urls.txt --max_workers 20
+python3 filter_urls.py (file urls).txt -o filtered_urls.txt --max_workers 20
